@@ -1,0 +1,2 @@
+# InNEED 
+A web-app which can be used by feminine users when they are in need of sanitary napkins or in case of a distress situation. Users can register themselves on this app as helpers and then their location will be displayed on user interface. Whenever a user needs sanitary napkins, nearest store locations and helper locations will be displayed using which they can go to those locations and get help.
